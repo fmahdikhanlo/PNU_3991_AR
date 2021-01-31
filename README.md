@@ -6,7 +6,7 @@
 - [حساب گیت هاب](https://github.com/fmahdikhanlo/fmahdikhanlo.github.io)
 - [آدرس رزومه](https://fmahdikhanlo.github.io/)
 - [SOP](https://fmahdikhanlo.github.io/SOP/)
-- [CERTIFICATE]()
+- [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20249840/pdf/)
 
 -------------------
 ## گروه ها
