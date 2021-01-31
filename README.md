@@ -12,6 +12,7 @@
 ### فاطمه مهدیخانلو 
 
 ---
+- [PNU_3991_AR](https://github.com/fmahdikhanlo/PNU_3991_AR)
 - [Github](https://github.com/fmahdikhanlo/fmahdikhanlo.github.io)
 - [Rezum](https://fmahdikhanlo.github.io/)
 - [SOP](https://fmahdikhanlo.github.io/SOP/)
@@ -25,6 +26,11 @@
    1. [_LMT-67_فاطمه مهدیخانلو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/67_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%87%D8%AF%D9%8A%D8%AE%D8%A7%D9%86%D9%84%D9%88)
 
 -----------------
+
+## ارائه شفاهی
+
+[فصل اول](https://youtu.be/GqFD-IERVCM)
+
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
