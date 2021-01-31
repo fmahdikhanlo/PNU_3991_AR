@@ -3,8 +3,8 @@
 ### فاطمه مهدیخانلو 
 
 ---
-- [حساب گیت هاب](https://github.com/fmahdikhanlo/fmahdikhanlo.github.io)
-- [آدرس رزومه](https://fmahdikhanlo.github.io/)
+- [Github](https://github.com/fmahdikhanlo/fmahdikhanlo.github.io)
+- [Rezum](https://fmahdikhanlo.github.io/)
 - [SOP](https://fmahdikhanlo.github.io/SOP/)
 - [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20249840/pdf/)
 
